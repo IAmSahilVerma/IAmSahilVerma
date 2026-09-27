@@ -23,9 +23,6 @@ Fraud risk scoring with LightGBM, SHAP explanations, retrieval over fraud rules,
 **[Spec2Photo_ML](https://github.com/IAmSahilVerma/Spec2Photo_ML)**
 My MSc dissertation: estimating galaxy stellar mass from photometry using 900,000+ SDSS DR17 records, reaching an MAE of 0.0484 dex.
 
-**[Highlight_Dimension](https://github.com/IAmSahilVerma/Highlight_Dimension)**
-A C# NX Open tool that highlights every drawing dimension linked to the underlying 3D model.
-
 ## Tools I use most
 Python, C#, PyTorch, scikit-learn, XGBoost, LightGBM, Hugging Face, LangChain, ChromaDB, FastAPI, Docker, MLflow, Siemens NX Open
 
