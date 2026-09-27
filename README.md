@@ -30,4 +30,4 @@ A C# NX Open tool that highlights every drawing dimension linked to the underlyi
 Python, C#, PyTorch, scikit-learn, XGBoost, LightGBM, Hugging Face, LangChain, ChromaDB, FastAPI, Docker, MLflow, Siemens NX Open
 
 ## Get in touch
-[LinkedIn](YOUR_LINKEDIN_URL) · sahilverma2399@gmail.com
+[LinkedIn](https://www.linkedin.com/in/sahilverma2399) · sahilverma2399@gmail.com
